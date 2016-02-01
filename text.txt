@@ -1,3 +1,5 @@
+//nimrod
+
 $git config --global user.name "me"
 $git config --global user.mail "ad@hot.com"
 
