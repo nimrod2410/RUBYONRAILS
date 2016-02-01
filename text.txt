@@ -1,0 +1,25 @@
+$git config --global user.name "me"
+$git config --global user.mail "ad@hot.com"
+
+$cd working_dir
+$git init
+.gitignore file
+
+$git add .
+$git add aasa.txt
+
+$git commit -m "initial commit"
+
+$git clone https//reorp.git
+
+$git status
+$git diff
+
+git log --oneline //los comit realizados resumen
+git remote -v //ver los repositorios remotos
+
+$git remote add nombre_del_remoto direccion_web
+$git push nombre_del_remoto
+$git checkout
+
+$GIT RESTORE
